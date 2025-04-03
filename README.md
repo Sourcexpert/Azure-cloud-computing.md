@@ -64,7 +64,8 @@ Standard D2as v5 (2 vcpus, 8 GiB memory)
 
 ---![Screenshot 2025-03-24 131701](https://github.com/user-attachments/assets/e50ffc17-db1c-4445-8689-37fd23dbb84e)
 
-![Screenshot 2025-03-24 131701](https://github.com/user-attachments/assets/324f8a81-d944-4190-b2ea-b0348001df82)
+![Screenshot 2025-03-24 165926](https://github.com/user-attachments/assets/fedf6d7e-f945-4244-ad56-e0c4d62aba9b)
+
 
 🎯 **Done! Your Azure Virtual Desktop (AVD) is now set up and ready for users!** 🚀
 
