@@ -8,7 +8,7 @@
 ![Screenshot 2025-03-18 085952](https://github.com/user-attachments/assets/c1129799-5bc0-4937-afcd-5399b789d285)
 
 ### ✅ **Step 2: Create a Host Pool**  
-1. I go to **[Azure Portal](https://portal.azure.com/)**.  
+1. Go to **[Azure Portal](https://portal.azure.com/)**.  
 2. Search for **Azure Virtual Desktop** and select it.  
 3. Click **Host Pools > + Create a Host Pool**.  
 4. Fill in details:  
