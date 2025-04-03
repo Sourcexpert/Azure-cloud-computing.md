@@ -72,6 +72,5 @@ Standard D2as v5 (2 vcpus, 8 GiB memory)
 
 ### Problems encountered
 
-The first, second, third, fourth and fifth times I attempted to provision the AVD, I encountered multiple errors. After extensive troubleshooting, I discovered that the issue stemmed from insufficient role permissions for AVD provisioning. Subsequently, I was granted **User Administrator** rights.
-
+On my first through fifth attempts to provision the AVD, I ran into several errors. After thorough troubleshooting, I pinpointed the issue to a lack of sufficient role permissions for AVD provisioning. Eventually, I was granted User Administrator rights, which resolved the problem
 ![Screenshot 2025-03-18 093838](https://github.com/user-attachments/assets/fb3f93b3-b0a3-4031-ba20-eee051d49565)
